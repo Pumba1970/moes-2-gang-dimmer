@@ -304,3 +304,4 @@ private int getAttributeValue(ArrayList _data) {
     }
     
     return retValue
+}
