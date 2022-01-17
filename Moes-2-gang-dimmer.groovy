@@ -26,7 +26,7 @@ private getMODEL_MAP() {
 }
 
 metadata {
-    definition(name: "Moes ZigBee Switch", namespace: "Moes", author: "Kotsos", ocfDeviceType: "oic.d.light", vid: "Light") {
+    definition(name: "Moes ZigBee Switch", namespace: "Moes", author: "Pumba", ocfDeviceType: "oic.d.light", vid: "Light") {
         capability "Actuator"
         capability "Configuration"
         capability "Refresh"
